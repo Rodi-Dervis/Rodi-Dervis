@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodi-Dervis&show_icons=true&theme=darkhub&count_private=true" alt="Rodi Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodi-Dervis&layout=compact&theme=darkhub" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodi-Dervis&show_icons=true&theme=dark&count_private=true" width="400" />
 </p>
 # 💫 About Me:
 🔭 I’m currently working on: Foundations of Cyber Security and Network Security labs.<br>👯 I’m looking to collaborate on: CTF (Capture The Flag) teams or open-source security tool projects.<br>🤝 I’m looking for help with: Penetration testing methodologies and advanced Linux administration.<br>🌱 I’m currently learning: Web application security, OWASP Top 10, and automation with Python.<br>💬 Ask me about: Network protocols, operating systems, and my career goals in cybersecurity.<br>⚡ Fun fact: I find hunting for vulnerabilities more exciting than writing a "Hello World" program.
