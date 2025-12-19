@@ -1,3 +1,4 @@
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Rodi-Dervis&theme=darkhub&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 # 💫 About Me:
 🔭 I’m currently working on: Foundations of Cyber Security and Network Security labs.<br>👯 I’m looking to collaborate on: CTF (Capture The Flag) teams or open-source security tool projects.<br>🤝 I’m looking for help with: Penetration testing methodologies and advanced Linux administration.<br>🌱 I’m currently learning: Web application security, OWASP Top 10, and automation with Python.<br>💬 Ask me about: Network protocols, operating systems, and my career goals in cybersecurity.<br>⚡ Fun fact: I find hunting for vulnerabilities more exciting than writing a "Hello World" program.
 
