@@ -1,19 +1,3 @@
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Rodi-Dervis&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" height="150" alt="stats card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodi-Dervis&layout=compact&theme=vision-friendly-dark&border_radius=10" height="150" alt="languages card" />
-</p>
-
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,py,linux,bash,git,github,visualstudio,vscode" />
-</p>
-
-### 🐍 Snake Contribution
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Rodi-Dervis/Rodi-Dervis/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
 # 💫 About Me:
 🔭 I’m currently working on: Foundations of Cyber Security and Network Security labs.<br>👯 I’m looking to collaborate on: CTF (Capture The Flag) teams or open-source security tool projects.<br>🤝 I’m looking for help with: Penetration testing methodologies and advanced Linux administration.<br>🌱 I’m currently learning: Web application security, OWASP Top 10, and automation with Python.<br>💬 Ask me about: Network protocols, operating systems, and my career goals in cybersecurity.<br>⚡ Fun fact: I find hunting for vulnerabilities more exciting than writing a "Hello World" program.
 
