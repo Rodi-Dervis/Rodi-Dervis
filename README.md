@@ -17,7 +17,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rodi-Dervis&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ![GitHub Snake](https://raw.githubusercontent.com/Rodi-Dervis/Rodi-Dervis/output/github-contribution-grid-snake.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
