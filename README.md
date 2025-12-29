@@ -1,5 +1,5 @@
 # 💫 About Me:
-> **"RODI DERVIS"**
+> **RODI DERVIS**
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/‪rodidervis.bsky.social‬) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rodidervi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodi.dervis) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Rodi-Derviş) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/rodiderviss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rodidervis875@gmail.com) 
